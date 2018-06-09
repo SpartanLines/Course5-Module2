@@ -14,7 +14,7 @@
             }
             else if ($scope.input === "" )
             {
-                $scope.message="Your list is empty"
+                $scope.message="Please Enter Data First"
             }
             else {
                 $scope.message="Enjoy"
